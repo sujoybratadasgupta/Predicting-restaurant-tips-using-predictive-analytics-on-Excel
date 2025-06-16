@@ -22,7 +22,7 @@ The following project tasks are required to be performed in excel:
 - [ ] Find out if there are any missing values and clean the data
 - [ ] Find the features that are independent and dependent
 - [ ] Identify which predictive problem is needed.
-- [ ] Encode the categorical variables to numeric values using IF conditions
+- [ ] Encode the categorical variables to numeric values using IF conditions.
 - [ ] Build an appropriate model with the dataset. 
 - [ ] Calculate the predicted and actual tips values.
 - [ ] Calculate the RMSE(Root Mean Square Error) of the model. RMSE is root of mean of square errors.
